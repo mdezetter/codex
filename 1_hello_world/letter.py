@@ -1,0 +1,5 @@
+print("Today is October 19, 2022")
+print("I am feeling tired.")
+print("During the codedex course, I want to learn Python more comprehensively")
+print("To my older, wiser, and programmer self. Did we do it? Do we understand for loops??")
+print("I don't know how to get the emoji keyboard up so")
