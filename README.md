@@ -10,4 +10,4 @@ Each repository is a section, currently there are 7 sections:
 6. Functions
 7. Classes & Objects
 
-I'm working my way through these tutorials in order to gain a better understanding of Python!
+Only the first 5 are free.
